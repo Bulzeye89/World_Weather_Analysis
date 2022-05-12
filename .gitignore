@@ -3,7 +3,8 @@ config.py
 
 #adding additional files
 API_practice.ipynb
-random_numbers_ipynb
+random_numbers.ipynb
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
